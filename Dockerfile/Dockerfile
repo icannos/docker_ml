@@ -1,5 +1,5 @@
 
-FROM tensorflow/tensorflow:latest-gpu
+FROM tensorflow/tensorflow:latest-gpu-py3
 
 ARG DEBIAN_FRONTEND=noninteractive
 
